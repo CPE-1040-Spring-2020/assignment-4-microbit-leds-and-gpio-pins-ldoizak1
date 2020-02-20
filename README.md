@@ -94,9 +94,8 @@ This assignment introduces the GPIO pins of the micro:bit. _Refer to the [criter
 ## Measurements
 
 V=3.6V
-I=15.3mA
-Vt= Vr+Vl = Vr= 5-3.6 =1.4
-V/I=R =1.4/15.3 =91.26 ohams
+I=4mA
+V/I=R =3.6/4 = .9 ohams
 
 ## Demo videos
 
