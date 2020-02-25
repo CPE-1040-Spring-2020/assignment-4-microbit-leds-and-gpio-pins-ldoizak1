@@ -101,3 +101,4 @@ V/I=R =3.6/4 = .9 ohams
 
 https://imgur.com/gallery/QE89JZ8
 https://imgur.com/gallery/rjFDMSA
+https://imgur.com/gallery/mEkJImY
