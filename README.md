@@ -99,6 +99,7 @@ V/I=R =3.6/4 = .9 ohams
 
 ## Demo videos
 
-https://imgur.com/gallery/QE89JZ8
-https://imgur.com/gallery/rjFDMSA
-https://imgur.com/gallery/mEkJImY
+https://imgur.com/gallery/QE89JZ8    
+    https://imgur.com/gallery/rjFDMSA
+    https://imgur.com/gallery/mEkJImY
+    https://imgur.com/gallery/dDt9n91
